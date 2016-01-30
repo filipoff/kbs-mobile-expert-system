@@ -1,0 +1,5 @@
+(deffunction setup ()
+        (load fn71489_classes.clp)
+        (load fn71489_instances.clp)
+        (load fn71489_rules.clp)
+)
